@@ -1,1 +1,26 @@
 # Renda_extra_Angola
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Renda Extra Online</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; background: #f9f9f9; color: #333; text-align: center; padding: 20px; }
+    .container { max-width: 600px; margin: auto; background: white; padding: 30px; border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.1); }
+    h1 { color: #2e7d32; }
+    .botao { background: #2e7d32; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-size: 18px; margin-top: 20px; display: inline-block; }
+    .botao:hover { background: #1b5e20; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>💰 Transforme Seu Tempo Livre em Dinheiro</h1>
+    <p><strong>Milhares de pessoas comuns</strong> estão fazendo renda extra de casa apenas <strong>respondendo pesquisas online</strong>.</p>
+    <p>Você não precisa vender, indicar ninguém, nem investir em produtos!</p>
+    <p>✅ Rápido • ✅ Seguro • ✅ Totalmente Online</p>
+    <a class="botao" href="https://wa.me/244XXXXXXXXX?text=Quero+ganhar+dinheiro+respondendo+pesquisas">Quero Começar Agora</a>
+  </div>
+</body>
+</html>
